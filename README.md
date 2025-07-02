@@ -1,2 +1,2 @@
-# simulatorplusplus
-This project is a 3D game engine.
+# The Dimentional Odyssey
+This is a Minecraft Modpack.
