@@ -1,2 +1,2 @@
-# The Dimentional Odyssey
+# The Dimensional Odyssey
 This is a Minecraft Modpack.
